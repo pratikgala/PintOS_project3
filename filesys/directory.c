@@ -13,6 +13,7 @@ struct dir
     off_t pos;                          /* Current position. */
   };
 
+  
 /* A single directory entry. */
 struct dir_entry 
   {
